@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class-kullanimi-3", "class-kullanimi-3\class-kullanimi-3.csproj", "{B6B25847-2F0D-4B57-8F85-3C37EA21EECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B25847-2F0D-4B57-8F85-3C37EA21EECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B25847-2F0D-4B57-8F85-3C37EA21EECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B25847-2F0D-4B57-8F85-3C37EA21EECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B25847-2F0D-4B57-8F85-3C37EA21EECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F439BF-7F69-463B-B182-5D04FF7FCC0C}
+	EndGlobalSection
+EndGlobal
